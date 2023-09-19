@@ -13,10 +13,10 @@
 
 ![NKUST]( logo.png "NKUSTTTT")
 
-- [] to do list
-- [] 1st list
-- [] 2nd list
-- [] 3rd list
+- [ ] to do list
+- [x] 1st list
+- [ ] 2nd list
+- [ ] 3rd list
 
 ----
 
