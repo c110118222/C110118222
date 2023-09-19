@@ -10,3 +10,22 @@
 # 😈  😲
 
 ----
+
+![NKUST]( logo.png "NKUSTTTT")
+
+- [] to do list
+- [] 1st list
+- [] 2nd list
+- [] 3rd list
+
+----
+
+```python
+s="Python syntax highlighting"
+print(s)
+```
+
+```js
+var s="JavaScript syntax highlighting"
+alert(s);
+```
