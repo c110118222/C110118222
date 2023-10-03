@@ -4,7 +4,7 @@
 
 ```mermaid
 gantt
-    title 專案管理
+    title 專案管理 作業二
 
     section 任務
     研擬計畫     : a1 , 2023-10-03 , 1d
