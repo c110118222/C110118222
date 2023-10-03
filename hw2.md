@@ -1,4 +1,4 @@
-# 專案管理 作業2
+# C110118222 專案管理 作業二
 
 ## 甘特圖
 
@@ -13,7 +13,7 @@ gantt
     程式開發     : a4 , after a2 , 70d
     安裝硬體     : a5 , after a3 , 10d
     程式測試     : a6 , after a4 , 30d
-    撰寫使用手冊  : a7 , after a5 , 25d
+    撰寫使用手冊 : a7 , after a5 , 25d
     轉換檔案     : a8 , after a5 , 20d
     系統測試     : a9 , after a6 , 25d
     使用者訓練   : a10 , after a7 a8 ,20d
