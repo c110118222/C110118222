@@ -57,6 +57,9 @@ abstract class CShape{
     public abstract void show();
 }
 ```
+
+
+
 ### CTriangle.java
 ```js
 class CTriangle extends CShape{
@@ -66,7 +69,6 @@ class CTriangle extends CShape{
         cb=b;
         cc=c;
     }
-```
     public void show() {
        
         System.out.print("color="+color+"  ");
@@ -75,4 +77,6 @@ class CTriangle extends CShape{
    
 }
 ```
+
+
 
