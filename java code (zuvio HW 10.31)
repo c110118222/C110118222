@@ -53,6 +53,7 @@ abstract class CShape{
         color = str;
     }
 
+
     public abstract void show();
 }
 ```
